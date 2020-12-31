@@ -19,7 +19,6 @@ import static co.com.comunity.utest.userinterface.JoinUtestPage.*;
 public class FirstStep implements Task {
 
     private List<DataFormRegister> data;
-    ComunityUtestPage comunityUtestPage;
 
     public FirstStep(List<DataFormRegister> data) {
         this.data = data;
